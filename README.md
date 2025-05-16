@@ -2,6 +2,7 @@ NFL Draft Simulator with AI
 An advanced NFL draft simulator that uses Bayesian networks, fuzzy logic, and machine learning elements to make intelligent and realistic draft decisions.
 
 📋 Description
+
 This project implements a comprehensive NFL draft simulator that mimics the decision-making process of real teams. Using advanced artificial intelligence techniques, the system evaluates prospects based on:
 
 - Player rankings (prospect quality)
@@ -11,6 +12,7 @@ This project implements a comprehensive NFL draft simulator that mimics the deci
 The combination of Bayesian networks to model historical probabilities, fuzzy logic to simulate human reasoning, and machine learning elements for optimization creates a system capable of making realistic selections and providing reasoning behind each decision.
 
 ✨ Features
+
 Bayesian Network: Learns from historical data to calculate selection probabilities by position and round
 Fuzzy Logic System: Implements linguistic rules like "if need is high and ranking is elite, then fit is high"
 Interactive Dashboard: Streamlit graphical interface to visualize and analyze results
