@@ -1,0 +1,8 @@
+scikit-fuzzy
+matplotlib
+networkx
+numpy
+pandas
+scikit-learn
+seaborn
+streamlit
