@@ -28,9 +28,10 @@ cd nfl-draft-simulator
 # Install dependencies
 pip install -r requirements.txt
 
-📊 Usage
-Console Simulator
+📊 Usage Console Simulator
+
 For a quick demonstration through the console:
+
 bashpython example_simulator.py
 This script showcases the basic capabilities of the simulator, including probability calculation, fit scores, and pick simulation.
 Interactive Dashboard
@@ -58,6 +59,7 @@ trends.csv: Historical draft trends
 draft_order.csv: Complete draft order
 
 📊 Results
+
 The simulator has demonstrated:
 
 High correlation (0.83) between simulated positional distribution and historical patterns
